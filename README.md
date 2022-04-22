@@ -1,6 +1,6 @@
 # Born2beroot
 ---------------------------------------------------
-## 42 - Create a virtual machine with Debian
+## 42 - Create a virtual machine with Debian.
 ---------------------------------------------------
 
 ## Final grade : 100/100
